@@ -1,0 +1,7 @@
+numpy == 1.21.5
+# NOTE: for numpy, version 1.21 is required for shap package (0.40.0)
+scipy
+shap
+torch
+matplotlib
+sklearn
